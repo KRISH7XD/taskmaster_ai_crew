@@ -1,0 +1,15 @@
+# Virtual environment
+taskmaster_env/
+
+# Sensitive files
+.env
+
+# Output directory
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Chroma DB
+chroma_db/
